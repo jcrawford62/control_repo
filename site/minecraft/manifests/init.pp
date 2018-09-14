@@ -21,4 +21,4 @@ class minecraft {
     ensure => running,
     enable => true,
   }
-)
+}
